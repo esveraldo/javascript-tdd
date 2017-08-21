@@ -1,0 +1,23 @@
+{
+  "name": "javascript-tdd",
+  "version": "1.0.0",
+  "description": "Estudo e testes em javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esveraldo/javascript-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Esveraldo Martins <esveraldo@hotmail.com> (http://way8.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esveraldo/javascript-tdd/issues"
+  },
+  "homepage": "https://github.com/esveraldo/javascript-tdd#readme"
+}
